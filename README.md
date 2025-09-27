@@ -1,1 +1,1 @@
-# deply-dbt
+# deploy-dbt
